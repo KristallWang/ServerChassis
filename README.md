@@ -1,12 +1,12 @@
 # Simple 19'' Rack Mount Chassis
 
-##Whats?
+## Whats?
 This is a simple and cheap 19 '' rack mount chassis for your home server room.
 All ports and connectors are placed to the front.
 
 You can make this copy or improved at a nearby sheet metal factory.
 
-##Spec.
+## Spec.
 
 - Sheet Metal: t2.3 Bonderizing Plate (popular name in Japan :: ボンデ鋼板)
 - Mountable PC Parts:
@@ -34,7 +34,7 @@ White painted blank Chassis.
 Rack mounted, apply 20N (2kgf) on center of chassis : amount of maximum displacement 0.329mm
 just about... within the allowable range...
 
-##Design Environment
+## Design Environment
 - 3DCAD: Geomagic Design
 - FEA: SimWise4D
 
